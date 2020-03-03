@@ -2,6 +2,8 @@
 
 ## Start
 
-To start project run `go run .` in one of lessons directory.
+To start project run `go run .` in app directory.
 
-To build the project run `go build .` in one of lessons directory and then use executable file.
+To build the project run `go build .` in app directory and then use executable file.
+
+To run tests suite run `go test` in app directory.
